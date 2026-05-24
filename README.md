@@ -66,7 +66,7 @@ Loss Function:
 ## 👨‍💻 Team Members
 - Suvranil Ghatak
 - Parthiv Nandi
-- (Add third member name)
+- Shubhabrata Choudhuri
 
 ---
 
